@@ -24,6 +24,7 @@ This site is a portfolio-style showcase of the kinds of projects the shop takes 
 - GitHub Pages
 
 ## Project Structure
+```
 .
 ├── css/
 │   ├── contact.css
@@ -37,6 +38,7 @@ This site is a portfolio-style showcase of the kinds of projects the shop takes 
 ├── js/
 │   └── script.js
 └── README.md
+```
 
 ## What I Learned
 
